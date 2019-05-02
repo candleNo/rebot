@@ -5,7 +5,7 @@ import time
 import json
 
 #login
-itchat.auto_login(hotReload=True)
+itchat.auto_login(hotReload=True, enableCmdQR=2)
 
 
 key = '8b8b0e3722b14680bd750a6a9311235f'
